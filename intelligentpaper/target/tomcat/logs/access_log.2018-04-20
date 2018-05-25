@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [20/Apr/2018:16:31:17 +0800] "GET /paper/list.htm HTTP/1.1" 200 15751 http-bio-8080-exec-1 482
+0:0:0:0:0:0:0:1 - - [20/Apr/2018:16:31:17 +0800] "GET /paper/css/bootstrap.min.css HTTP/1.1" 200 121260 http-bio-8080-exec-7 11
+0:0:0:0:0:0:0:1 - - [20/Apr/2018:16:31:17 +0800] "GET /paper/css/font-awesome.min.css HTTP/1.1" 200 21984 http-bio-8080-exec-5 6
+0:0:0:0:0:0:0:1 - - [20/Apr/2018:16:31:17 +0800] "GET /paper/css/boot-crm.css HTTP/1.1" 200 52 http-bio-8080-exec-6 4
+0:0:0:0:0:0:0:1 - - [20/Apr/2018:16:31:17 +0800] "GET /paper/css/sb-admin-2.css HTTP/1.1" 200 5593 http-bio-8080-exec-4 22
+0:0:0:0:0:0:0:1 - - [20/Apr/2018:16:31:18 +0800] "GET /paper/css/dataTables.bootstrap.css HTTP/1.1" 200 7616 http-bio-8080-exec-3 45
+0:0:0:0:0:0:0:1 - - [20/Apr/2018:16:31:18 +0800] "GET /paper/css/metisMenu.min.css HTTP/1.1" 200 781 http-bio-8080-exec-2 58
+0:0:0:0:0:0:0:1 - - [20/Apr/2018:16:31:18 +0800] "GET /paper/fonts/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 65452 http-bio-8080-exec-3 81
+0:0:0:0:0:0:0:1 - - [20/Apr/2018:16:31:18 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [20/Apr/2018:16:31:34 +0800] "GET /paper/js/jquery.min.map HTTP/1.1" 404 997 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [20/Apr/2018:16:31:34 +0800] "GET /paper/css/bootstrap.min.css.map HTTP/1.1" 404 1013 http-bio-8080-exec-3 1

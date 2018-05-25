@@ -1,0 +1,5 @@
+127.0.0.1 - - [18/May/2018:20:30:53 +0800] "GET /paper/question/list.do HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [18/May/2018:20:32:30 +0800] "GET /paper/question/list.do HTTP/1.1" 500 8631 http-bio-8080-exec-1 151
+0:0:0:0:0:0:0:1 - - [18/May/2018:20:32:30 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [18/May/2018:20:33:57 +0800] "GET /paper/question/list.do HTTP/1.1" 200 31569 http-bio-8080-exec-1 2329
+0:0:0:0:0:0:0:1 - - [18/May/2018:20:33:57 +0800] "GET /paper/css/bootstrap.min.css HTTP/1.1" 304 - http-bio-8080-exec-2 174
